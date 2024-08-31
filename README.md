@@ -6,7 +6,7 @@
 
 ## 👋 Introduction
 
-Hey there! I’m Sai Cherish Potluri, a Fullstack Software Developer with a passion for crafting beautiful, functional, and efficient code. My journey has taken me from building full-fledged applications for emergency medicine certification to creating AI-powered image recognition apps. When I’m not coding, you might find me exploring the latest in AI or tinkering with new front-end frameworks. Let’s dive into my world of code!
+Hey there! I’m Sai Cherish Potluri, a Fullstack Software Developer with a passion for crafting beautiful, functional, and efficient code. My journey has taken me from building full-fledged web applications to creating AI-powered image recognition apps. When I’m not coding, you might find me exploring the latest in AI or tinkering with new front-end frameworks. Let’s dive into my world of code!
 
 ## 💼 Experience
 
