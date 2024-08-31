@@ -60,7 +60,6 @@ Hey there! I’m Sai Cherish Potluri, a Fullstack Software Developer with a pass
 
 ## 📬 Get in Touch
 
-- **Email**: [saicherishpotluri@gmail.com](mailto:saicherishpotluri@gmail.com)
 - **LinkedIn**: [linkedin.com/in/spotluri](https://linkedin.com/in/spotluri)
 - **GitHub**: [github.com/spotluri](https://github.com/spotluri)
 
