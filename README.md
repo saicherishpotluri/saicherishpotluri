@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/spotluri)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/spotluri)
+[![X](https://img.shields.io/badge/Twitter-Follow-blue)](https://x.com/cherish_potluri)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blueviolet)](https://saicherishpotluri.netlify.app/)
 
 ## 👋 Introduction
