@@ -9,25 +9,6 @@
 
 Hey there! I’m Sai Cherish Potluri, a Fullstack Software Developer with a passion for crafting beautiful, functional, and efficient code. My journey has taken me from building full-fledged web applications to creating AI-powered image recognition apps. When I’m not coding, you might find me exploring the latest in AI or tinkering with new front-end frameworks. Let’s dive into my world of code!
 
-## 💼 Experience
-
-### Fullstack Software Developer @ Devoir Software Solutions (June 2023 – Present) | Chesterfield, MO
-- 🛠 **Project**: Administrative Certification Tracking Web Application
-  - **Tech Stack**: Angular, Bootstrap, ASP.NET, SQL Server, Azure B2C, Azure DevOps
-  - **Magic Performed**:
-    - Developed a fullstack web application to streamline physician and certification cycle management.
-    - Built integration services for third-party exam vendors.
-    - Architected a composite service to secure API access and prevent unauthorized usage.
-    - Led knowledge transfer sessions, leaving no developer behind.
-    - Revamped 90% of the client’s application, boosting efficiency by 60% (take that, old code!).
-
-### Fullstack Software Engineer Intern @ Ace Data Services (May 2022 – July 2022) | Boston, MA
-- 🛠 **Project**: AI Content Write
-  - **Tech Stack**: Angular, .NET Core, AWS
-  - **Magic Performed**:
-    - Created and enhanced Angular components while mastering the dark arts of .NET Core.
-    - Deployed services on AWS, ensuring they scaled like a wizard’s tower.
-
 ## 🛠️ Projects
 
 ### AI Image Recognition with Gemini AI | Express, Multer, Gemini AI [🔗](https://github.com/saicherishpotluri/image-reconition-app) 
