@@ -11,6 +11,10 @@ Hey there! I’m Sai Cherish Potluri, a Fullstack Software Developer with a pass
 
 ## 🛠️ Projects
 
+### Fitness AI Companion Application (F.A.C.A) | React, Spring Boot, Open AI [🔗](https://github.com/saicherishpotluri/fitness-ai-companion-app) 
+- Developed a web application serving as a personal trainer, featuring a BMI calculator, exercise planner, and recipe planner.
+- Built with React, Bootstrap, and Spring AI, it leverages OpenAI's language models to provide intelligent, personalized fitness guidance.
+  
 ### AI Image Recognition with Gemini AI | Express, Multer, Gemini AI [🔗](https://github.com/saicherishpotluri/image-reconition-app) 
 - Built a web app using **Gemini AI** to analyze images and text, generating AI-driven insights. 
 - Implemented image upload with **Multer**, integrated with Gemini AI for some serious multimodal data sorcery.
